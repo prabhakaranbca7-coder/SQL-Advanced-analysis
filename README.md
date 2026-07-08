@@ -36,7 +36,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 - Cohorts were grouped by year of first purchase
 - Analyzed customer retention at a cohort level
 
-🖥️ Query: [2_cohort_analysis.sql](/2_cohort_analysis.sql)
+🖥️ Query: [2_cohort_analysis.sql](2_cohort_analysis.sql)
 
 **📈 Visualization:**
 
@@ -53,7 +53,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 - With both lowering LTV and decreasing customer acquisition, the company is facing a potential revenue decline.
 
 ### 3. Customer Retention
-🖥️ Query: [3_retention_analysis.sql](3_retention_analysis.sql)
+🖥️ Query: [3_retention_analysis.sql](3_cohort_analysis.sql)
 
 - Identified customers at risk of churning
 - Analyzed last purchase patterns
